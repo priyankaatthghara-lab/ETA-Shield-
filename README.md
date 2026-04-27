@@ -38,13 +38,6 @@ cd eta-shield
 4. Specify cargo criticality
 5. View adjusted severity index and delivery window
 
-## 🏆 Hackathon
-
-Built for [Hackathon Name] - [Date]
-
-## 📄 License
-
-MIT License
 
 ---
 
